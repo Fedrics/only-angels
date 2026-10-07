@@ -1,0 +1,127 @@
+{
+  "checks": 52,
+  "routes": [
+    {
+      "level": 1,
+      "reached": true,
+      "seconds": 306.3,
+      "deaths": 12,
+      "objectives": 0,
+      "required": 0,
+      "coins": 207
+    },
+    {
+      "level": 2,
+      "reached": true,
+      "seconds": 166.3,
+      "deaths": 4,
+      "objectives": 3,
+      "required": 3,
+      "coins": 216
+    },
+    {
+      "level": 3,
+      "reached": true,
+      "seconds": 339.7,
+      "deaths": 13,
+      "objectives": 0,
+      "required": 0,
+      "coins": 263
+    },
+    {
+      "level": 4,
+      "reached": true,
+      "seconds": 376.4,
+      "deaths": 13,
+      "objectives": 0,
+      "required": 0,
+      "coins": 254
+    },
+    {
+      "level": 5,
+      "reached": true,
+      "seconds": 391.4,
+      "deaths": 38,
+      "objectives": 4,
+      "required": 4,
+      "coins": 275
+    },
+    {
+      "level": 6,
+      "reached": true,
+      "seconds": 295,
+      "deaths": 16,
+      "objectives": 4,
+      "required": 4,
+      "coins": 274
+    },
+    {
+      "level": 7,
+      "reached": true,
+      "seconds": 375,
+      "deaths": 17,
+      "objectives": 0,
+      "required": 0,
+      "coins": 249
+    },
+    {
+      "level": 8,
+      "reached": true,
+      "seconds": 282.4,
+      "deaths": 10,
+      "objectives": 3,
+      "required": 3,
+      "coins": 284
+    },
+    {
+      "level": 9,
+      "reached": true,
+      "seconds": 328.2,
+      "deaths": 13,
+      "objectives": 4,
+      "required": 4,
+      "coins": 288
+    },
+    {
+      "level": 10,
+      "reached": true,
+      "seconds": 288,
+      "deaths": 10,
+      "objectives": 3,
+      "required": 3,
+      "coins": 255
+    },
+    {
+      "level": 11,
+      "reached": true,
+      "seconds": 225,
+      "deaths": 7,
+      "objectives": 4,
+      "required": 4,
+      "coins": 261
+    },
+    {
+      "level": 12,
+      "reached": true,
+      "seconds": 345.4,
+      "deaths": 15,
+      "objectives": 4,
+      "required": 4,
+      "coins": 288
+    }
+  ],
+  "battles": [
+    {
+      "level": 10,
+      "seconds": 13.7,
+      "deaths": 0
+    },
+    {
+      "level": 12,
+      "seconds": 17.5,
+      "deaths": 0
+    }
+  ],
+  "automatedTraversalSeconds": 3719.1,
+  "note": "Simulated deterministic traversal at 60 Hz; not a human duration playtest or browser compatibility test."
+}
